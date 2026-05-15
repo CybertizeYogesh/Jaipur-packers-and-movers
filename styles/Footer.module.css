@@ -1,0 +1,148 @@
+.footer {
+  background-color: var(--color-dark);
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+.footer::before,
+.footer::after {
+  background: var(--color-dark-2);
+  content: "";
+  height: 260%;
+  position: absolute;
+  transform: rotate(54deg);
+  width: 44%;
+  z-index: -1;
+}
+
+.footer::before {
+  left: -18%;
+  top: -146%;
+}
+
+.footer::after {
+  height: 264%;
+  right: 4%;
+  top: -24%;
+  transform: rotate(44deg);
+  width: 26%;
+}
+
+.top {
+  padding: 34px 0 48px;
+}
+
+.grid {
+  display: grid;
+  gap: 34px;
+  grid-template-columns: 1.2fr 1fr 1fr 1.25fr;
+}
+
+.logo {
+  display: block;
+  margin-bottom: 20px;
+  max-width: 150px;
+}
+
+.widget p,
+.contactList li,
+.links a {
+  color: #fff;
+  line-height: 1.6;
+}
+
+.contactList {
+  margin-top: 12px;
+}
+
+.contactList li {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  margin-top: 9px;
+}
+
+.title {
+  color: #fff;
+  font-size: 1.28rem;
+  font-weight: 700;
+  margin: 22px 0 28px;
+  text-transform: capitalize;
+}
+
+.links li + li {
+  margin-top: 10px;
+}
+
+.links a {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.links a:hover {
+  color: #fc0000;
+  transform: translateX(4px);
+}
+
+.social {
+  display: flex;
+  gap: 16px;
+  margin-top: 6px;
+}
+
+.social a {
+  align-items: center;
+  color: #fff;
+  display: inline-flex;
+  font-size: 1.45rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.social a:hover {
+  color: #fc0000;
+  transform: translateY(-3px);
+}
+
+.bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.16);
+  padding: 13px 0;
+}
+
+.bottomInner {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+}
+
+.bottomLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+}
+
+.credit span {
+  color: #fff;
+  font-weight: 700;
+}
+
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 620px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .bottomInner {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
