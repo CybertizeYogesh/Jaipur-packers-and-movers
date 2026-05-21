@@ -43,7 +43,7 @@ export default function HomePage() {
               </p>
             </MotionReveal>
             <MotionReveal className={pageStyles.aboutImage} variant="zoomIn">
-              <Image src="/images/packers-and-movers.png" alt="Packers and movers team" width={360} height={360} />
+              <Image src="/images/packers-and-movers.webp" alt="Packers and movers team" width={360} height={360} />
             </MotionReveal>
           </div>
         </div>

@@ -20,15 +20,15 @@ export const metadata = {
     "local shifting service in jaipur"
   ],
   icons: {
-    icon: "/favicon/favicon-icon.png",
-    shortcut: "/favicon/favicon-icon.png"
+    icon: "/favicon/favicon-icon.webp",
+    shortcut: "/favicon/favicon-icon.webp"
   },
   openGraph: {
     title: "Jaipur Packers And Movers",
     description: defaultDescription,
     url: site.baseUrl,
     siteName: "Jaipur Packers And Movers",
-    images: [{ url: "/images/header-bg-img.jpg", width: 1200, height: 630, alt: "Jaipur Packers And Movers" }],
+    images: [{ url: "/images/header-bg-img.webp", width: 1200, height: 630, alt: "Jaipur Packers And Movers" }],
     locale: "en_IN",
     type: "website"
   },
@@ -36,7 +36,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Jaipur Packers And Movers",
     description: defaultDescription,
-    images: ["/images/header-bg-img.jpg"]
+    images: ["/images/header-bg-img.webp"]
   },
   alternates: {
     canonical: "/"

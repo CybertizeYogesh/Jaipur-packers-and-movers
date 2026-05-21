@@ -1,6 +1,6 @@
 .quoteSection {
   background-color: #111;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.32)), url("/images/get-quote-form.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.32)), url("/images/get-quote-form.webp");
   background-position: center;
   background-size: cover;
   color: #fff;
@@ -78,7 +78,7 @@
 }
 
 .welcome {
-  background-image: url("/images/welcome-div-bg.png");
+  background-image: url("/images/welcome-div-bg.webp");
   background-position: center;
   background-size: cover;
   color: #111;

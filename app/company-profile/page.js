@@ -24,7 +24,7 @@ export default function CompanyProfilePage() {
         <div className="container">
           <div className={pageStyles.contentGrid}>
             <MotionReveal variant="fadeRight">
-              <Image src="/images/packers-and-movers.png" alt="Company profile" width={540} height={520} />
+              <Image src="/images/packers-and-movers.webp" alt="Company profile" width={540} height={520} />
             </MotionReveal>
             <MotionReveal className={pageStyles.textBlock} variant="fadeLeft">
               <h2>Overview</h2>

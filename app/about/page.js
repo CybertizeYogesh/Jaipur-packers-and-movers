@@ -27,7 +27,7 @@ export default function AboutPage() {
         <div className="container">
           <div className={pageStyles.contentGrid}>
             <MotionReveal variant="fadeRight">
-              <Image src="/images/abt-img.png" alt="About Jaipur Packers and Movers" width={560} height={500} />
+              <Image src="/images/abt-img.webp" alt="About Jaipur Packers and Movers" width={560} height={500} />
             </MotionReveal>
             <MotionReveal className={pageStyles.textBlock} variant="fadeLeft">
               <h2>About Us</h2>

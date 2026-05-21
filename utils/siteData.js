@@ -59,7 +59,7 @@ export const services = [
     slug: "house-shifting",
     title: "House Shifting",
     menuTitle: "House Shifting",
-    image: "/images/packers-and-movers-Dehradun.jpg",
+    image: "/images/packers-and-movers-Dehradun.webp",
     summary: "Complete home shifting with secure packing, careful handling, and timely door-to-door delivery.",
     intro: "Our home shifting service is planned for families who want a safe, organized, and low-stress move. Jaipur Packers And Movers handles packing materials, labeling, loading, transport, unloading, and placement with trained moving staff.",
     details: "Every household item is packed according to its fragility and size. High value goods, appliances, furniture, kitchenware, and personal belongings are handled through a step-by-step process that keeps your move predictable from booking to delivery."
@@ -68,7 +68,7 @@ export const services = [
     slug: "office-relocation",
     title: "Office Relocation",
     menuTitle: "Office Shifting",
-    image: "/images/office-relocation-img-1.jpg",
+    image: "/images/office-relocation-img-1.webp",
     summary: "Professional office shifting for workstations, records, electronics, furniture, and commercial setups.",
     intro: "Office relocation needs planning, sequencing, and minimum disruption. We pack and move workstations, files, computers, chairs, counters, and business assets with a process designed to help teams restart quickly.",
     details: "The move plan covers survey, packing schedule, department-wise labeling, safe loading, transport, unloading, and setup support for small offices, shops, and commercial spaces."
@@ -77,7 +77,7 @@ export const services = [
     slug: "car-transport",
     title: "Car Transportation",
     menuTitle: "Car Carriers",
-    image: "/images/car-carrier-service.jpg",
+    image: "/images/car-carrier-service.webp",
     summary: "Reliable car carrier service for safe vehicle movement across Jaipur and all India locations.",
     intro: "Our car transportation service is built for customers who need dependable vehicle movement with proper inspection, loading, and carrier handling.",
     details: "We use suitable carriers and supervised loading practices to reduce transit risk. Customers receive practical support from pickup coordination to delivery confirmation."
@@ -86,7 +86,7 @@ export const services = [
     slug: "bike-transport",
     title: "Bike Transportation",
     menuTitle: "Bike Transport",
-    image: "/images/car-carrier-service.jpg",
+    image: "/images/car-carrier-service.webp",
     summary: "Door-to-door bike shifting with protective packing and dependable transport coordination.",
     intro: "Bike transportation requires scratch-safe packing and careful loading. We prepare two-wheelers for movement with protective layers, tie-down support, and route-aware transport.",
     details: "From pickup to delivery, our team focuses on timely updates, safe handling, and economical service for local and domestic bike transport needs."
@@ -95,7 +95,7 @@ export const services = [
     slug: "local-shifting",
     title: "Local Shifting",
     menuTitle: "Local Shifting",
-    image: "/images/local-shifting-services.jpg",
+    image: "/images/local-shifting-services.webp",
     summary: "Fast local shifting in Jaipur for homes, flats, offices, shops, and small moves.",
     intro: "For shifting goods from one place to another, our local shifting service is used by families and businesses who want a prompt, cost effective, and well managed move.",
     details: "Moving locally can still be challenging. Our team manages packing, labor, loading, transport, and unloading so your same-city shifting stays simple and organized."
@@ -104,7 +104,7 @@ export const services = [
     slug: "loading-unloading",
     title: "Loading Unloading",
     menuTitle: "Loading Unloading",
-    image: "/images/packers-and-movers-Dehradun.jpg",
+    image: "/images/packers-and-movers-Dehradun.webp",
     summary: "Trained labor for careful loading and unloading of heavy, fragile, and odd-sized goods.",
     intro: "Loading and unloading are critical parts of any relocation. Our trained staff know how to lift, load, stack, and unload household and office items without careless damage.",
     details: "We use practical manpower planning and item-wise handling for boxes, furniture, appliances, and commercial goods, keeping safety and speed in balance."
@@ -113,7 +113,7 @@ export const services = [
     slug: "warehouse-storage",
     title: "Warehouse Storage",
     menuTitle: "Warehousing",
-    image: "/images/packers-and-movers-Dehradun.jpg",
+    image: "/images/packers-and-movers-Dehradun.webp",
     summary: "Safe storage and warehousing options for household, office, and commercial belongings.",
     intro: "Our warehousing service helps customers who need temporary or planned storage during relocation, renovation, transfer, or business movement.",
     details: "Goods are packed, labeled, moved, and stored with attention to inventory, safety, and convenient retrieval. It is a useful option when delivery timing needs flexibility."
@@ -122,7 +122,7 @@ export const services = [
     slug: "transportation",
     title: "Transportation",
     menuTitle: "Transportation",
-    image: "/images/local-shifting-services.jpg",
+    image: "/images/local-shifting-services.webp",
     summary: "Prompt goods transportation and road transport services at cost effective rates.",
     intro: "We are enthusiastically involved in the arena of providing goods transportation services and road transportation services according to client needs.",
     details: "Whether you are a business looking for logistics support or an individual seeking dependable transport, our service is planned for safe, efficient, and affordable movement."
@@ -131,7 +131,7 @@ export const services = [
     slug: "packing-unpacking",
     title: "Packing Unpacking",
     menuTitle: "Packing Unpacking",
-    image: "/images/packers-and-movers-Dehradun.jpg",
+    image: "/images/packers-and-movers-Dehradun.webp",
     summary: "Secure packing and organized unpacking support for fragile, bulky, and daily-use goods.",
     intro: "Good packing is the foundation of a safe move. Our staff use suitable materials, layering, labeling, and item grouping to protect goods in transit.",
     details: "We help with cartons, wrapping, appliance protection, furniture covers, and unpacking support so customers can settle faster after delivery."
@@ -140,7 +140,7 @@ export const services = [
     slug: "domestic-relocation",
     title: "Domestic Relocation",
     menuTitle: "Domestic Relocation",
-    image: "/images/office-relocation-img-1.jpg",
+    image: "/images/office-relocation-img-1.webp",
     summary: "All India relocation services for homes, offices, vehicles, and commercial goods.",
     intro: "Domestic relocation connects Jaipur with major Indian cities through a managed moving process, trained teams, and long-distance coordination.",
     details: "From survey and quotation to packing, transport, delivery, and updates, the service is designed for safer intercity moving with practical customer support."
@@ -149,7 +149,7 @@ export const services = [
     slug: "international-relocation",
     title: "International Relocation",
     menuTitle: "International Relocation",
-    image: "/images/car-carrier-service.jpg",
+    image: "/images/car-carrier-service.webp",
     summary: "Planned relocation support for international moves, packing, documentation guidance, and coordination.",
     intro: "International relocation requires careful packing, inventory discipline, and structured coordination. We help customers prepare for overseas movement with professional moving support.",
     details: "The service includes consultation, export-quality packing guidance, item listing, pickup planning, and handoff coordination based on customer requirements."
@@ -158,7 +158,7 @@ export const services = [
     slug: "commercial-relocation",
     title: "Commercial Relocation",
     menuTitle: "Commercial Relocation",
-    image: "/images/office-relocation-img-1.jpg",
+    image: "/images/office-relocation-img-1.webp",
     summary: "Commercial goods, shops, showrooms, and business relocation with safe movement planning.",
     intro: "Commercial relocation needs quick handling and organized movement. We support shops, showrooms, and business units with packing, labor, transport, and delivery planning.",
     details: "The process is built around inventory, priority items, safe stacking, and timely transport to reduce downtime and keep business movement under control."
@@ -167,7 +167,7 @@ export const services = [
     slug: "furniture-shifting",
     title: "Furniture Shifting",
     menuTitle: "Furniture Shifting",
-    image: "/images/packers-and-movers-Dehradun.jpg",
+    image: "/images/packers-and-movers-Dehradun.webp",
     summary: "Furniture packing, lifting, transport, and placement for homes and offices.",
     intro: "Furniture shifting needs careful lifting and protective wrapping to avoid scratches and breakage. We handle beds, sofas, wardrobes, tables, chairs, and modular furniture.",
     details: "Our moving staff inspect item size, access points, stairs, and vehicle loading needs so furniture is moved safely and placed properly at delivery."
@@ -305,19 +305,19 @@ export const faqs = [
 ];
 
 export const galleryItems = [
-  { title: "House Shifting", image: "/images/packers-and-movers-Dehradun.jpg" },
-  { title: "Car Carrier", image: "/images/car-carrier-service.jpg" },
-  { title: "Local Shifting", image: "/images/local-shifting-services.jpg" },
-  { title: "Office Relocation", image: "/images/office-relocation-img-1.jpg" },
-  { title: "Packing Support", image: "/images/packers-and-movers.png" },
-  { title: "Warehouse Support", image: "/images/packers-and-movers-Dehradun.jpg" }
+  { title: "House Shifting", image: "/images/packers-and-movers-Dehradun.webp" },
+  { title: "Car Carrier", image: "/images/car-carrier-service.webp" },
+  { title: "Local Shifting", image: "/images/local-shifting-services.webp" },
+  { title: "Office Relocation", image: "/images/office-relocation-img-1.webp" },
+  { title: "Packing Support", image: "/images/packers-and-movers.webp" },
+  { title: "Warehouse Support", image: "/images/packers-and-movers-Dehradun.webp" }
 ];
 
 export const clients = Array.from({ length: 14 }, (_, index) => {
   const number = index + 1;
   return {
     name: `Client ${number}`,
-    image: number === 9 ? "/images/client-9.jpg.png" : `/images/client-${number}.jpg`
+    image: number === 9 ? "/images/client-9.jpg.webp" : `/images/client-${number}.jpg`
   };
 });
 

@@ -25,7 +25,7 @@ export default function Footer() {
           <div className={styles.grid}>
             <div className={styles.widget}>
               <Link className={styles.logo} href="/">
-                <Image src="/images/logo.png" alt={site.name} width={260} height={120} />
+                <Image src="/images/logo.webp" alt={site.name} width={260} height={120} />
               </Link>
               <p>We offer end to end service and you do not have to get concerned about anything.</p>
               <ul className={styles.contactList}>

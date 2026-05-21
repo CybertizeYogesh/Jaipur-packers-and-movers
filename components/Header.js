@@ -47,7 +47,7 @@ export default function Header() {
             <Link className={styles.logoLink} href="/" aria-label={`${site.name} home`}>
               <Image
                 className={styles.logoBox}
-                src="/images/packers-and-movers-logo.png"
+                src="/images/packers-and-movers-logo.webp"
                 alt={site.name}
                 width={560}
                 height={160}
