@@ -115,7 +115,7 @@ export default function Footer() {
               <Link href="/sitemap.xml">SiteMap</Link>
             </div>
             <p className={styles.credit}>
-              Designed by <span>PRonto Media Solutions</span> © 2023 All Rights Reserved
+              Designed by <span>Cybertize Growth</span> © 2026 All Rights Reserved
             </p>
           </div>
         </div>
